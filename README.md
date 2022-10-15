@@ -27,6 +27,7 @@
 ## Contribution Welcome!
 
 - Design Logo for me pls
+- New poster because current one copied from google and have someone else name, not good (Pls don't submit me that Sedyor poster)
 - Fix known issues
 
 ## 🙏 Credits
